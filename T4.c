@@ -9,7 +9,7 @@ int main()
 
     rectangle=length*width;
 
-    printf("Rectangle=%0.2f",rectangle);
+    printf("Rectangle=%f",rectangle);
 
     return 0;
 }

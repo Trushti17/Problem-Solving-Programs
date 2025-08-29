@@ -8,7 +8,7 @@ void main()
     printf("Enter values:-\n");
     scanf("%f%f",&a,&b);
 
-    tringle=a*b/2;
+    tringle=(a*b)/2;
 
     printf("Area of tringle=%0.3f",tringle);
 }

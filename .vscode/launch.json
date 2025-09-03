@@ -1,7 +1,111 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "metrix",
+      "request": "launch",
+      "mainClass": "metrix",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T29",
+      "request": "launch",
+      "mainClass": "T29",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T28",
+      "request": "launch",
+      "mainClass": "T28",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T27",
+      "request": "launch",
+      "mainClass": "T27",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T26",
+      "request": "launch",
+      "mainClass": "T26",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T25",
+      "request": "launch",
+      "mainClass": "T25",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T24",
+      "request": "launch",
+      "mainClass": "T24",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T23",
+      "request": "launch",
+      "mainClass": "T23",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T22",
+      "request": "launch",
+      "mainClass": "T22",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T21",
+      "request": "launch",
+      "mainClass": "T21",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T20",
+      "request": "launch",
+      "mainClass": "T20",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T19",
+      "request": "launch",
+      "mainClass": "T19",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T18",
+      "request": "launch",
+      "mainClass": "T18",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T17",
+      "request": "launch",
+      "mainClass": "T17",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
+    {
+      "type": "java",
+      "name": "T15",
+      "request": "launch",
+      "mainClass": "T15",
+      "projectName": "Problem-Solving-Programs_99b5e722"
+    },
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",

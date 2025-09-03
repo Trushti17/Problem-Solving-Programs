@@ -8,7 +8,7 @@ void main()
     printf("Enter fehrenheit:-");
     scanf("%f",&f);
 
-    c=5/9(f-32);
+    c=5/9*(f-32);
 
     printf("Temperature:=%f",c);
 }
